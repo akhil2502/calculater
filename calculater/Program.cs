@@ -6,7 +6,9 @@ namespace calculater
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("welcome to calculater");
+            Calculater clc = new Calculater();
+            clc.add();
+
         }
     }
 }
