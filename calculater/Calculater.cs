@@ -8,9 +8,9 @@ public class Calculater
 	{
 	
 	}
-	public void add()
+	public void sub()
 	{
-		int c = a + b;
+		int c = a - b;
 		Console.WriteLine(c);
 	}
 }

@@ -7,7 +7,7 @@ namespace calculater
         static void Main(string[] args)
         {
             Calculater clc = new Calculater();
-            clc.add();
+            clc.sub();
 
         }
     }
